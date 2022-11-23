@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/Drignet/counter-react.git/static/js/main.92030732.js",
-    "static/media/previous-icon.svg": "/Drignet/counter-react.git/static/media/previous-icon.0b5825476ef558bd914f3ddd895bb719.svg",
-    "static/media/next-icon.svg": "/Drignet/counter-react.git/static/media/next-icon.a87247b053872ae9080f86ab6264d54d.svg",
-    "static/media/icons8-close.svg": "/Drignet/counter-react.git/static/media/icons8-close.5f1ae8c1189cb250fe8f8fc86e852165.svg",
-    "index.html": "/Drignet/counter-react.git/index.html",
-    "main.92030732.js.map": "/Drignet/counter-react.git/static/js/main.92030732.js.map"
+    "main.js": "/react-counter/static/js/main.f6a49f76.js",
+    "static/media/previous-icon.svg": "/react-counter/static/media/previous-icon.0b5825476ef558bd914f3ddd895bb719.svg",
+    "static/media/next-icon.svg": "/react-counter/static/media/next-icon.a87247b053872ae9080f86ab6264d54d.svg",
+    "static/media/icons8-close.svg": "/react-counter/static/media/icons8-close.5f1ae8c1189cb250fe8f8fc86e852165.svg",
+    "index.html": "/react-counter/index.html",
+    "main.f6a49f76.js.map": "/react-counter/static/js/main.f6a49f76.js.map"
   },
   "entrypoints": [
-    "static/js/main.92030732.js"
+    "static/js/main.f6a49f76.js"
   ]
 }
